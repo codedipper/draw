@@ -1,0 +1,254 @@
+.black {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.grey {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: grey;
+    border-style: solid;
+    border-width: thin;
+}
+
+.red {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: red;
+    border-style: solid;
+    border-width: thin;
+}
+
+.orange {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: orange;
+    border-style: solid;
+    border-width: thin;
+}
+
+.yellow {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: thin;
+}
+
+.green {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: green;
+    border-style: solid;
+    border-width: thin;
+}
+
+.turquoise {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: turquoise;
+    border-style: solid;
+    border-width: thin;
+}
+
+.blue {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: blue;
+    border-style: solid;
+    border-width: thin;
+}
+
+.purple {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: purple;
+    border-style: solid;
+    border-width: thin;
+}
+
+.white {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-width: thin;
+}
+
+.lightgrey {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: lightgray;
+    border-style: solid;
+    border-width: thin;
+}
+
+.brown {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: rgb(185, 122, 87);
+    border-style: solid;
+    border-width: thin;
+}
+
+.pink {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: pink;
+    border-style: solid;
+    border-width: thin;
+}
+
+.gold {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: gold;
+    border-style: solid;
+    border-width: thin;
+}
+
+.lightyellow {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: lightyellow;
+    border-style: solid;
+    border-width: thin;
+}
+
+.darkred {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: darkred;
+    border-style: solid;
+    border-width: thin;
+}
+
+.lime {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: lime;
+    border-style: solid;
+    border-width: thin;
+}
+
+.skyblue {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: skyblue;
+    border-style: solid;
+    border-width: thin;
+}
+
+.bluegray {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: rgb(112, 146, 190);
+    border-style: solid;
+    border-width: thin;
+}
+
+.lavender {
+    float: left;
+    height: 60px;
+    width: 60px;
+    border-radius: 5px;
+    background-color: lavender;
+    border-style: solid;
+    border-width: thin;
+}
+
+.small {
+    margin: 0;
+    float: left;
+    height: 40px;
+    width: 40px;
+    border-radius: 80%;
+    background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.medium {
+    margin: 0;
+    float: left;
+    height: 40px;
+    width: 40px;
+    border-radius: 40%;
+    background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.large {
+    margin: 0;
+    float: left;
+    height: 40px;
+    width: 40px;
+    border-radius: 20%;
+    background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.xlarge {
+    margin: 0;
+    float: left;
+    height: 40px;
+    width: 40px;
+    border-radius: 7%;
+    background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
+
+.xxlarge {
+    margin: 0;
+    float: left;
+    height: 40px;
+    width: 40px;
+    border-radius: 1%;
+    background-color: black;
+    border-style: solid;
+    border-width: thin;
+}
