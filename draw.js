@@ -77,7 +77,7 @@ function mouseDragged(){
 }
 
 function setup(){
-    createCanvas(1000, 750);
+    createCanvas(1250, 650);
     pallette = "black";
     thickness = 3;
 }
